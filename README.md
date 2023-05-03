@@ -1,1 +1,1 @@
-# summext
+A chrome extension that summarizes text you highlight 
